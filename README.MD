@@ -7,3 +7,4 @@ developer spends sometime and pushes to git lot of time as part of development
 
 ## Rebase
 rebase is another merge strategy
+developing still going on
